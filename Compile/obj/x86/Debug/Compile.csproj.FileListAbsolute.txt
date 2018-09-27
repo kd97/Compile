@@ -1,0 +1,53 @@
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\bin\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\bin\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\obj\x86\Debug\Compile.csprojResolveAssemblyReference.cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\obj\x86\Debug\BY3.Form1.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\obj\x86\Debug\Compile.Properties.Resources.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\obj\x86\Debug\Compile.csproj.GenerateResource.Cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\obj\x86\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\obj\x86\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\Compile\Compile\bin\Debug\Compile.exe.config
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\bin\Debug\Compile.exe.config
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\obj\x86\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\obj\x86\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\bin\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\bin\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\obj\x86\Debug\Compile.csprojResolveAssemblyReference.cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\obj\x86\Debug\BY3.Form1.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\obj\x86\Debug\Compile.Properties.Resources.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile - 副本\Compile\obj\x86\Debug\Compile.csproj.GenerateResource.Cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.exe.config
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.Properties.Resources.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.csproj.GenerateResource.Cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验一1153710223杨凯迪\Compile\Compile\obj\x86\Debug\LEX.Form1.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.exe.config
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.csprojResolveAssemblyReference.cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\LEX.Form1.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.Properties.Resources.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验二语法分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.csproj.GenerateResource.Cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.exe.config
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\bin\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.csprojResolveAssemblyReference.cache
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\LEX.Form1.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.Properties.Resources.resources
+C:\Users\Tracy Yang\Desktop\新建文件夹\编译原理\实验三语义分析1153710223杨凯迪\Compile\Compile\obj\x86\Debug\Compile.csproj.GenerateResource.Cache
+C:\Users\Tracy Yang\Desktop\Compile\Compile\bin\Debug\Compile.exe.config
+C:\Users\Tracy Yang\Desktop\Compile\Compile\obj\x86\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\Compile\Compile\obj\x86\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\Compile\Compile\bin\Debug\Compile.exe
+C:\Users\Tracy Yang\Desktop\Compile\Compile\bin\Debug\Compile.pdb
+C:\Users\Tracy Yang\Desktop\Compile\Compile\obj\x86\Debug\Compile.csprojResolveAssemblyReference.cache
+C:\Users\Tracy Yang\Desktop\Compile\Compile\obj\x86\Debug\LEX.Form1.resources
+C:\Users\Tracy Yang\Desktop\Compile\Compile\obj\x86\Debug\Compile.Properties.Resources.resources
+C:\Users\Tracy Yang\Desktop\Compile\Compile\obj\x86\Debug\Compile.csproj.GenerateResource.Cache
